@@ -1,0 +1,19 @@
+[
+{
+"modid": "modmki",
+"name": "Mod MKI",
+"description": "My mod",
+"version": "1.0",
+"credits": "Created by Whissp",
+"logoFile": "",
+"mcversion": "",
+"url": "",
+"updateUrl": "",
+"authors": [ "Whissp"],
+"parent":"",
+"screenshots": [],
+"dependencies": [
+"mod_MinecraftForge"
+]
+}
+]

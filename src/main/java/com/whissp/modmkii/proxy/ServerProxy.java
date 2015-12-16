@@ -1,6 +1,6 @@
 package com.whissp.modmkii.proxy;
 
-public class ServerProxy
+public class ServerProxy extends CommonProxy
 {
 
 }
